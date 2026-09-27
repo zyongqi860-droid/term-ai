@@ -1,0 +1,5 @@
+# 本地工作文件，不入库
+_backup_old/
+.mimosa/
+# 可选的 Cloudflare Worker 代理（本地保留；不用 Cloudflare 时无需部署）
+worker.js
